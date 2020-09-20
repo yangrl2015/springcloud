@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flinkstudy/flinkstudy.iml" filepath="$PROJECT_DIR$/flinkstudy/flinkstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lua-test/lua-test.iml" filepath="$PROJECT_DIR$/lua-test/lua-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-test/scala-test.iml" filepath="$PROJECT_DIR$/scala-test/scala-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootstudy/springbootstudy.iml" filepath="$PROJECT_DIR$/springbootstudy/springbootstudy.iml" />
+    </modules>
+  </component>
+</project>

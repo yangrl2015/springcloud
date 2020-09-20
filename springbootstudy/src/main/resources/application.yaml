@@ -1,0 +1,10 @@
+context:
+  initializer:
+    classes: com.study.springboot.initializer.MyInitializer
+spring:
+  application:
+    name: Main
+  mandatory-file-encoding: utf-8
+  output:
+    ansi:
+      enabled: always
